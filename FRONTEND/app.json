@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "FRONTEND",
+    "slug": "FRONTEND",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Coding_Deb.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Coding_Deb.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#4458BE"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Coding_Deb.jpg",
+        "backgroundColor": "#4458BE"
+      }
+    },
+    "web": {
+      "favicon": "./assets/Coding_Deb.jpg"
+    }
+  }
+}
